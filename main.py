@@ -1,12 +1,10 @@
 import streamlit as st
 import os
 import pandas as pd
-import plotly.express as px
 import numpy as np
 import matplotlib.pyplot as plt
 import altair as alt
-from vega_datasets import data
-from datetime import datetime
+
 
 st.set_page_config(
     page_title="Tableau de bord", page_icon="📊 ", layout="centered"

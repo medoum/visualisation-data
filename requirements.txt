@@ -1,5 +1,5 @@
 streamlit==1.12.0
 pandas==1.4.2
-numpy @ file:///opt/concourse/worker/volumes/live/a3493aeb-202b-43d0-6a51-0a73ce7c0029/volume/numpy_and_numpy_base_1649782777974/work
-matplotlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_croot-hkd3cnd2/matplotlib-suite_1647506470899/work
+numpy==1.23.2
+matplotlib==3.5.3
 altair==4.2.0
