@@ -119,8 +119,6 @@ st.altair_chart(
 use_container_width=True
 )
         
-
-
 # st.subheader("Evolution des prix par marque")
 # df = pd.DataFrame(
 #      np.random.randn(200, 4),
